@@ -1,0 +1,11 @@
+android_app {
+    name: "FP3Wallpapers",
+
+    resource_dirs: ["res/"],
+    manifest: "AndroidManifest.xml",
+
+    certificate: "platform",
+    sdk_version: "current",
+
+    system_ext_specific: true,
+}
