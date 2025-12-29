@@ -21,4 +21,5 @@
         <item>wallpaper_02</item>
         <item>wallpaper_03</item>
     </string-array>
+    <bool name="default_wallpapper_hidden">true</bool>
 </resources>
